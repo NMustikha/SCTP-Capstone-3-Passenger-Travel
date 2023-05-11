@@ -25,6 +25,7 @@ The 2 datasets used in this capstone are the air passenger departures and air pa
 * Sharp decreases in February and September
 
 **_Analysis_**
+
 **1. Increase in air travel implies positive growth in air traffic, accessibility and positive impact of globalisation**
 Positive growth could be due to multiple factors such as demand pattern, network connectivity, etc. As the world becomes more connected, possibly due to globalisation, increased global population, etc, the upsurged demand to travel provides opportunities to increase supply through expanding airports, catering more flight schedules and exploring new or alternative flight routes among other things.
 
