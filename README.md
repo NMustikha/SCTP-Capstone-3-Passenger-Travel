@@ -8,11 +8,11 @@
 
 #
 
-##### Description of Dataset
+#### Description of Dataset
 
 The 2 datasets used in this capstone are the air passenger departures and air passenger arrivals. Both datasets mainly consist of passenger travels in Changi Airport from January 2000 to December 2020 (Departure) / August 2010 (Arrival) with the corresponding country and region of the travel count. The arrival dataset has a size of 7,745 rows while the departure dataset has a size of 7,811 rows.
 
-##### Insights
+#### Insights
 
 **_General Observations_**
 * 11 countries with over 250 million flights in 10 years
@@ -38,10 +38,10 @@ For travel distance, flights around the region have seen to increase rapidly (su
 
 Lastly, the months of the year seems to impact air travel. For example, the increases in March and December could possibly imply the holidays for school going students while the decreases in February and September could indicate the school term. 
 
-##### Other Comments
+#### Other Comments
 The datasets only include the countries of origin and destination. By including the different states of each country, the hotspots of each country could be determined which would give more insight with further analysis. This could lead to more actionable insights such as scheduling more flights during peak season or exploring alternative flight routes to break into new market.
 
-##### Data Transformation
+#### Data Transformation
 -	Renamed columns
 -	Changed column type
 -	Replaced values
@@ -49,5 +49,5 @@ The datasets only include the countries of origin and destination. By including 
 -	Added columns to isolate 2019 and 2018 data
 -	Added Dates table and Destination table
 
-##### Connect with Me!
+#### Connect with Me!
 Like my work? Send me a DM on [Linkedin!](https://sg.linkedin.com/in/noor-mustikha-nk)
