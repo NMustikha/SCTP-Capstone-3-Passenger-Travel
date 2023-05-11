@@ -2,7 +2,7 @@
 
 ## _Understanding Passenger Travel in Changi Airport_
 
-[![CoverPage](https://i.gyazo.com/b08b1368b4cf495ace22d7a568b46397.jpg)](https://gyazo.com/b08b1368b4cf495ace22d7a568b46397)
+[![CoverPage]((https://i.gyazo.com/cafeceb617f8d12e4bdf06e95fa11748.jpg)](https://gyazo.com/cafeceb617f8d12e4bdf06e95fa11748)
 [![Dashboard](https://i.gyazo.com/de6c8f8c2e063fc4a59e0f9eb8d8b020.jpg)](https://gyazo.com/de6c8f8c2e063fc4a59e0f9eb8d8b020)
 [![DetailedView](https://i.gyazo.com/bdd1cdb2f2d1787b40375a5cd4e504c3.jpg)](https://gyazo.com/bdd1cdb2f2d1787b40375a5cd4e504c3)
 
