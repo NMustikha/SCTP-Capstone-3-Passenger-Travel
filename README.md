@@ -12,9 +12,7 @@
 
 The 2 datasets used in this capstone are the air passenger departures and air passenger arrivals. Both datasets mainly consist of passenger travels in Changi Airport from January 2000 to December 2020 (Departure) / August 2010 (Arrival) with the corresponding country and region of the travel count. The arrival dataset has a size of 7,745 rows while the departure dataset has a size of 7,811 rows.
 
-#### Insights
-
-**_General Observations_**
+#### General Observations
 * 11 countries with over 250 million flights in 10 years
 * Gradual increase in arrivals and departures year after year
 * Generally higher departures than arrivals
@@ -24,8 +22,7 @@ The 2 datasets used in this capstone are the air passenger departures and air pa
 * Sharp increases in March and December
 * Sharp decreases in February and September
 
-**_Analysis_**
-
+#### Analysis & Insights
 **1. Increase in air travel implies positive growth in air traffic, accessibility and positive impact of globalisation**
 Positive growth could be due to multiple factors such as demand pattern, network connectivity, etc. As the world becomes more connected, possibly due to globalisation, increased global population, etc, the upsurged demand to travel provides opportunities to increase supply through expanding airports, catering more flight schedules and exploring new or alternative flight routes among other things.
 
